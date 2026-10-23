@@ -1,0 +1,31 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "PD2Hud",
+	"Description": "Migrated from a legacy UE4 ModLoader mod by CrimeFactory.",
+	"Category": "Modding",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "PDML",
+			"Enabled": true,
+			"SemVersion": "EA_0.1.2"
+		}
+	],
+	"SemVersion": "1.0.0",
+	"ModEnvironment": "Client",
+	"ModLoaderVersion": "EA_0.1.2",
+	"ModPageURL": "",
+	"ModAuthors": [],
+	"RequiredOnRemote": false
+}
